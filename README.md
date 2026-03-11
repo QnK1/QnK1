@@ -9,7 +9,7 @@
 ## 🧰 Also Familiar With
 #### [![My Skills](https://skillicons.dev/icons?i=cpp,java,go,react,flask,mongo,docker)](https://skillicons.dev)
 &nbsp;
-## 🔭 Current Projects
+## 🧪 Current Projects
 ### 📡 Multimodal MoE for Sensor Fusion
 Research on object detection and crowd analytics using Mixture of Experts models, working with PhDs and other students as part of [KN Glider](https://github.com/aI-lab-glider). Currently, the project is at the data collection cleanup stage.
 
