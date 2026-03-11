@@ -11,7 +11,7 @@
 <br><br>
 ## 🧪 Current Projects
 ### 📡 Multimodal MoE for Sensor Fusion
-Research on object detection and crowd analytics using Mixture of Experts models, working with PhDs and other students as part of [KN Glider](https://github.com/aI-lab-glider). Currently, the project is at the data collection cleanup stage.
+Research on object detection and crowd analytics using Mixture of Experts models, working with PhDs and other students as part of [KN Glider](https://github.com/aI-lab-glider). Currently, the project is at the data collection and cleanup stage.
 
 ### 🧩 Explainable RL Rubik's Cube Solver
 Design and implementation of a Reinforcement Learning solver for the Rubik's Cube which can generate solutions that follow human solving methods, aiming to create a useful tool for [speedcubing](https://en.wikipedia.org/wiki/Speedcubing) enthusiasts.
