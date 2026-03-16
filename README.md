@@ -35,5 +35,8 @@ Python + Mesa cellular automaton framework for simulating and benchmarking drone
 ### 🛡️ [Entity Level Security](https://github.com/MrWlobo/Entity-Level-Security-System)
 Entity Level Security (ELS) layer for Python applications that use SQLAlchemy. The system enforces permissions on the level of individual rows (row-level security) and allows granting SELECT, UPDATE, DELETE, and INSERT privileges to users or roles.
 
+### 📜 [Simple Programming Language Visualiser + Interpreter](https://github.com/QnK1/simple-programming-language-visualiser)
+A Python + ANTLR4 interpreter of a custom programming language which provides a visual representation of the code's execution.
+
 ### 📶 [IoT Bike Alarm](https://github.com/QnK1/IOT_bike_alarm)
 A low-power IoT bike alarm built on ESP32, using LoRaWAN, GPS, and an accelerometer to prevent theft. Built in C.
