@@ -16,6 +16,9 @@ Research on object detection and crowd analytics using Mixture of Experts models
 ### 🧩 Explainable RL Rubik's Cube Solver
 Design and implementation of a Reinforcement Learning solver for the Rubik's Cube which can generate solutions that follow human solving methods, aiming to create a useful tool for [speedcubing](https://en.wikipedia.org/wiki/Speedcubing) enthusiasts.
 
+### ♟️ RL Chess
+An attempt to create a chess engine based on Reinforcement Learning, combining Neural Networks with search-based methods.
+
 ## 🎯 Finished Projects
 ### 🐝 [Good Vibezzz](https://github.com/sggorski/news_project)
 A web platform, built using Flask and JavaScript, that aggregates global news, filtering content through a fine-tuned BERT model to display only positive stories. It pulls from multiple trusted sources, uses NLP-based sentiment analysis for classification, and presents a curated feed focused on uplifting, solution-driven news.
