@@ -1,7 +1,6 @@
 # Hi, my name is Kacper 👋
 
 #### 🎓 CS & AI at AGH University of Krakow
-#### 💻 Data Engineer Intern at Capgemini
 #### 🤖 Passionate about ML & Data Science 
 &nbsp;
 ## 🛠️ Tech Stack
