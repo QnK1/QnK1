@@ -1,13 +1,15 @@
 # Kacper Dłubała
 *🎓 CS & AI at AGH University of Krakow* <br>
 *🤖 Passionate about ML & Data Science* 
-<br> <br> <br>
+<br> <br>
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,django,flask,fastapi,postgres,docker,aws,terraform,cpp)](https://skillicons.dev)
+
+---
 ## Currently working on
 - ***Multimodal MoE for Sensor Fusion*** - Research on object detection and crowd analytics using Mixture of Experts models, working with PhDs and other students as part of [KN Glider](https://github.com/aI-lab-glider).
 - ***Explainable RL Rubik's Cube Solver*** - Design and implementation of a Reinforcement Learning solver for the Rubik's Cube which can generate solutions that follow human solving methods, aiming to create a useful tool for [speedcubing](https://en.wikipedia.org/wiki/Speedcubing) enthusiasts.
 - ***Combinatorial Transformer*** - A topologically-aware Transformer for solving combinatorial puzzles using rotation-invariant relative positional encodings.
-
+---
 ## Past Projects
 - ***[Good Vibezzz](https://github.com/sggorski/news_project)*** - A web platform, built using Flask and JavaScript, that aggregates global news, filtering content through a fine-tuned BERT model to display only positive stories. It pulls from multiple trusted sources, uses NLP-based sentiment analysis for classification, and presents a curated feed focused on uplifting, solution-driven news.
 - ***[Power Grid Load Forecasting](https://github.com/QnK1/power-grid-load-forecast)*** - Research and comparison of daily power grid load forecasting methods from the literature with custom LSTM and Rule-Based models to assess accuracy and performance, using Python, Pandas and TensorFlow.
