@@ -1,5 +1,7 @@
 # Kacper Dłubała
 *🎓 CS & AI at AGH University of Krakow* <br>
+*💻 Python Developer at Nokia*
+<br>
 *🤖 Passionate about ML & Data Science* 
 <br> <br>
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,django,flask,fastapi,postgres,docker,aws,terraform,cpp)](https://skillicons.dev)
