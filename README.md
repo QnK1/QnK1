@@ -7,7 +7,7 @@
 
 ---
 ## Currently working on
-- ***Combinatorial Transformer*** - A research paper exploring the use of Transformer neural network architectures in combinatorial puzzle solving using heuristic search.
+- ***Combinatorial Transformer*** - A research paper exploring the use of Transformer architectures with structure-aware inductive biases in combinatorial puzzle solving using heuristic search.
 ---
 ## Past Projects
 - ***[Good Vibezzz](https://github.com/sggorski/news_project)*** - A web platform, built using Flask and JavaScript, that aggregates global news, filtering content through a fine-tuned BERT model to display only positive stories. It pulls from multiple trusted sources, uses NLP-based sentiment analysis for classification, and presents a curated feed focused on uplifting, solution-driven news.
